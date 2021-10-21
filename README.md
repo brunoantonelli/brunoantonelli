@@ -2,7 +2,7 @@
 ##
 Meu nome é Bruno Antonelli.
 Atualmente estou cursando Engenharia da Computação na UFSC. 
-Buscando conhecimento na area da programção em particular Segurança da informação e Hackin ético
+Buscando conhecimento na area da programação em particular Segurança da informação e Hackin ético
 
 My name is Bruno Antonelli.
 I am currently studying Computer Engineering at UFSC.
