@@ -1,5 +1,4 @@
 👋 Hello world ! 
-
 ##
 Meu nome é Bruno Antonelli.
 Atualmente estou cursando Engenharia da Computação na UFSC. 
