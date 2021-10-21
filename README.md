@@ -3,6 +3,12 @@ Meu nome é Bruno Antonelli.
 Atualmente estou cursando Engenharia da Computação na UFSC. 
 Buscando conhecimento na area da programção em particular Segurança da informação e Hackin ético
 
+My name is Bruno Antonelli.
+I am currently studying Computer Engineering at UFSC.
+Seeking knowledge in the area of ​​programming in particular Information Security and Ethical Hackin
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
