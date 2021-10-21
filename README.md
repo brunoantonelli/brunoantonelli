@@ -9,7 +9,7 @@ Atualmente estou cursando Engenharia da Computação na UFSC.
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Bruno-yoda" src="https://media4.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=790b76113b7ffc20fe1d0e3d646e414dc778caaebff4ba3e&rid=giphy.gif&ct=g">
+  <img align="right"  alt="Bruno-yoda" height="30" width="40" src="https://media4.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=790b76113b7ffc20fe1d0e3d646e414dc778caaebff4ba3e&rid=giphy.gif&ct=g">
 </div>
 
 
