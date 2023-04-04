@@ -1,13 +1,10 @@
 👋 Hello world ! 
 ##
-Meu nome é Bruno Antonelli.
-Atualmente estou cursando Engenharia da Computação na UFSC. 
-Buscando conhecimento na area da programação em particular Segurança da informação, Hackin ético e full stack.
+Olá, eu sou o Bruno Antonelli, um estudante de engenharia da computação na UFSC (Universidade Federal de Santa Catarina). Meu interesse em desenvolvimento de software começou há alguns anos, e desde então, tenho me dedicado a aprender diferentes tecnologias e linguagens de programação.
 
-My name is Bruno Antonelli.
-I am currently studying Computer Engineering at UFSC.
-Seeking knowledge in the area of ​​programming in particular Information Security and Ethical Hackin
+Atualmente, meu foco é em desenvolvimento de sites e aplicativos, e tenho buscado aprimorar minhas habilidades nessa área. Meu objetivo é criar produtos que sejam ao mesmo tempo funcionais e atraentes, proporcionando uma boa experiência para o usuário.
 
+Neste perfil do GitHub, você encontrará alguns dos meus projetos pessoais e colaborações em equipe. Espero que goste e que possamos colaborar em algum projeto futuro.
 ##
 
 <div style="display: inline_block"><br>
