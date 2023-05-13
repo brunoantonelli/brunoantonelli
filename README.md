@@ -2,8 +2,6 @@
 ##
 Olá, eu sou o Bruno Antonelli, um estudante de engenharia da computação na UFSC (Universidade Federal de Santa Catarina). Meu interesse em desenvolvimento de software começou há alguns anos, e desde então, tenho me dedicado a aprender diferentes tecnologias e linguagens de programação.
 
-Atualmente, meu foco é em desenvolvimento de sites e aplicativos, e tenho buscado aprimorar minhas habilidades nessa área. Meu objetivo é criar produtos que sejam ao mesmo tempo funcionais e atraentes, proporcionando uma boa experiência para o usuário.
-
 Neste perfil do GitHub, você encontrará alguns dos meus projetos pessoais e colaborações em equipe. Espero que goste e que possamos colaborar em algum projeto futuro.
 ##
 
