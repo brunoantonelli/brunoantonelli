@@ -1,8 +1,9 @@
 👋 Hello world ! 
 ##
-Olá, eu sou o Bruno Antonelli, um estudante de engenharia da computação na UFSC (Universidade Federal de Santa Catarina). Meu interesse em desenvolvimento de software começou há alguns anos, e desde então, tenho me dedicado a aprender diferentes tecnologias e linguagens de programação.
+Olá! Sou Bruno Antonelli, estudante de Engenharia da Computação na UFSC.
+Tenho interesse em desenvolvimento de software, com ênfase em backend Java e frontend moderno com React/Next.js. Busco escrever código limpo, escalável e bem estruturado, sempre guiado por boas práticas e aprendizado contínuo.
 
-Neste perfil do GitHub, você encontrará alguns dos meus projetos pessoais e colaborações em equipe. Espero que goste e que possamos colaborar em algum projeto futuro.
+Neste perfil, compartilho projetos pessoais e experiências práticas em diferentes stacks. Fique à vontade para explorar e, quem sabe, colaborar! 
 ##
 
 <div style="display: inline_block"><br>
